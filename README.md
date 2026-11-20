@@ -9,6 +9,7 @@ Every topic ends with real projects on GitHub.
 |---|---|---|---|
 | A | Git, GitHub, Python basics | [first-python-repo](https://github.com/Mohdsuhail06/first-python-repo) | Reads an expenses CSV and prints a summary |
 | B | Python for data (pandas) | [grocery-cleaning](https://github.com/Mohdsuhail06/grocery-cleaning) | Finds and fixes 6 problems in messy grocery data |
+| B | Python for data (pandas) | [cars-data-cleaning](https://github.com/Mohdsuhail06/cars-data-cleaning) | Cleans 10,921 real Jordan car listings and finds a hidden meaning in missing data |
 ## Next up
 - B: Python for data (NumPy, pandas)
 - C: Charts & data analysis
