@@ -11,6 +11,7 @@ Every topic ends with real projects on GitHub.
 | B | Python for data (pandas) | [grocery-cleaning](https://github.com/Mohdsuhail06/grocery-cleaning) | Finds and fixes 6 problems in messy grocery data |
 | B | Python for data (pandas) | [cars-data-cleaning](https://github.com/Mohdsuhail06/cars-data-cleaning) | Cleans 10,921 real Jordan car listings and finds a hidden meaning in missing data |
 | ML 1 | Linear regression | [linear-regression-from-scratch](https://github.com/Mohdsuhail06/linear-regression-from-scratch) | Predicts car prices from age with regression written from scratch in NumPy (closed form + gradient descent), checked against scikit-learn |
+| ML 1 | Multiple linear regression | [price-predictor](https://github.com/Mohdsuhail06/price-predictor) | Predicts car prices from age, mileage, fuel, gearbox and make (normal equation, gradient descent, one-hot, scaling by hand); R² 0.19 → 0.31 |
 ## Next up
-- ML 1.2: Multiple linear regression (price-predictor)
+- ML 1.3: Honest evaluation (cross-validation, data leakage, cleaning fake prices)
 - ML 2: Classification
