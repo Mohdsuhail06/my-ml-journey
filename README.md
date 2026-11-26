@@ -14,7 +14,7 @@ written from scratch first and then checked against scikit-learn.
 
 ## Part 1: Regression ✅
 
-Predicting a number. All four projects use real Jordan used-car listings and are written from scratch in NumPy.
+Predicting a number. The four lesson projects use real Jordan used-car listings; the final project uses NASA exoplanet data. All written from scratch in NumPy.
 
 | Lesson | Project | What it does |
 |---|---|---|
@@ -23,6 +23,7 @@ Predicting a number. All four projects use real Jordan used-car listings and are
 | 1.3 Honest evaluation | [price-predictor / evaluate.py](https://github.com/Mohdsuhail06/price-predictor) | Hand-written cross-validation, a fixed cleaning rule, and a data-leakage experiment |
 | 1.4 Overfitting, bias-variance | [overfitting-lab](https://github.com/Mohdsuhail06/overfitting-lab) | A degree-11 curve memorizes 12 cars (train error 0, test 57,349 JOD); degree chosen with CV and learning curves |
 | 1.5 Regularization | [regularization-lab](https://github.com/Mohdsuhail06/regularization-lab) | Ridge, Lasso, Elastic Net from scratch: test error 57,349 → 8,909 JOD; Lasso keeps 16 of 768 columns |
+| **Final project** | [exoplanet-regression](https://github.com/Mohdsuhail06/exoplanet-regression) | Can regression rediscover physics? Kepler's law (powers 1.497 / −0.474 vs 1.5 / −0.5) and the planet temperature law from 6,473 NASA planets; catches calculated-value leakage; Ridge-chosen mass model |
 
 ## Part 2: Classification (next)
 
